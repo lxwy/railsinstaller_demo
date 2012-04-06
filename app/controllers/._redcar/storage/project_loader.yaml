@@ -1,0 +1,4 @@
+--- 
+open_files: 
+  - welcome_controller.rb
+  - application_controller.rb
